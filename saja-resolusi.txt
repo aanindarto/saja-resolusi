@@ -2,3 +2,5 @@ saja resolusi
 -konsisten belajar react
 -studi kasus coding
 -jual aplikasi
+-kembangkan untuk mobile aplikasi
+-bangun jejaring untuk pasar
